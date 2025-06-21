@@ -51,6 +51,6 @@ title: Bigadiç Medrese-i Nuriyesi
 
 ## 📍🗺 Adres
 
-[Google Haritalar<br/>Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye](https://maps.app.goo.gl/7eQmFXgeht11yWvGA)
+[Google Haritalar<br/>Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye](https://maps.app.goo.gl/GyPrRb3EERm67PMa8?g_st=iw)
 
 [Hizmet Vakfı](https://www.hizmetvakfi.com)
