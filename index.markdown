@@ -41,14 +41,11 @@ title: Bigadiç Medrese-i Nuriyesi
 
 ## ☎️ İrtibat
 
-- 📞 **Tel:** <a href="tel:+905336516258">+90 533 651 6258</a>
-- [📞 **Tel: +90 533 651 6258**](https://wa.me/905336516258)
+- [📞 **Tel: +90 533 651 6258**](tel:+905336516258)
 
-- [💬 **Whatsapp**](https://wa.me/905336516258)
+- [💬 **Whatsapp: +90 533 651 6258**](https://wa.me/905336516258)
 
-- [**📧 e-Posta**](mailto:bilal.harun00@gmail.com)
-
-📧 e-Posta: <a href="mailto:sozler@sozler.com.tr">sozler@sozler.com.tr</a>
+- [**📧 e-Posta: bilal.harun00@gmail.com**](mailto:bilal.harun00@gmail.com)
 
 - [🌐 **Web Sitesi**](https://bilalharun.github.io)
 
