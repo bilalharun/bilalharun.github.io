@@ -27,7 +27,7 @@ title: Bigadiç Medrese-i Nuriyesi
 
 ### 📕 Kitap Temini
 
-- [Sözler® Neşriyat](https://www.sozlernesriyat.com.tr)
+- [Sözler® Neşriyat](https://www.sozler.com.tr)
 
 - [Envar® Neşriyat](https://www.envarnesriyat.com)
 
