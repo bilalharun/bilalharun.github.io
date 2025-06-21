@@ -5,41 +5,55 @@ layout: home
 title: Bigadiç Medrese-i Nuriyesi
 ---
 
-Bediüzzaman Said Nursi'nin eserlerinin okunduğu bir medresedir. Bu medrese, iman ve Kur'ân hakikatlerinin öğretilmesi ve yayılması amacıyla kurulmuştur.
-
-## Özellikler
-
-- Medrese, Risale-i Nur'un okunması için özel olarak tasarlanmıştır.
-- Ferdler, Bediüzzaman Said Nursi'nin eserlerini derinlemesine inceleme fırsatı bulurlar.
-- Medrese, İslamî ilimlerin yanı sıra modern bilimlere de önem verir.
-
 ## Kaynaklar
 
-- [Hizmet Vakfı](https://www.hizmetvakfi.com)
-- [Risale-i Nur Külliyatı ( Sözler Neşriyat )](http://istanbul.sozler.com.tr)
-- [Risale-i Nur Külliyatı ( Envar Neşriyat )](https://www.risalekulliyati.com)
+### 📕 Kitap Temini
+
 - [Sözler Neşriyat](https://www.sozlernesriyat.com.tr)
+
 - [Envar Neşriyat](https://www.envarnesriyat.com)
 
-## Resimler
-Medrese ile ilgili resimleri aşağıda bulabilirsiniz:
-![Bigadiç Medrese-i Nuriyesi](https://example.com/medrese.jpg)
-Resim: Bigadiç Medrese-i Nuriyesi
+### 📱 Sözler® Neşriyat Mobil Uygulama
 
-## Ziyaret Saatleri
-Bigadiç Medrese-i Nuriyesi'nde ders günleri:
+- [▶︎ Google Play Store ( Android )](https://play.google.com/store/apps/details?id=com.sozlernesriyat)
+
+- [🪷 Huawei AppGallery](https://appgallery.huawei.com/app/C112418551)
+
+- [ Apple App Store ( iOS )](https://apps.apple.com/tr/app/sözler-risale-i-nur/id1565188005)
+
+### 📱 Envar® Neşriyat Mobil Uygulama
+
+- [▶︎ Google Play Store ( Android )](https://play.google.com/store/apps/details?id=com.yukselis.okuma)
+
+- [🪷 Huawei AppGallery](https://appgallery.huawei.com/app/C104805645)
+
+- [ Apple App Store ( iOS )](https://apps.apple.com/tr/app/risale-i-nur-okuma-program%C4%B1/id6447762001)
+
+### 📖 🧑‍💻 Internet Üzerinde Külliyat
+
+- [Sözler® Neşriyat](http://istanbul.sozler.com.tr)
+
+- [Envar® Neşriyat](https://www.risalekulliyati.com)
+
+## 📅 Ders Günleri 
 
 - Cuma: 21:00
 
+## ☎️ İrtibat
 
-## İletişim
-Bigadiç Medrese-i Nuriyesi hakkında daha fazla bilgi almak için lütfen iletişime geçin.
+- 📞 **Tel:** <a href="tel:+905336516258">+90 533 651 6258</a>
+- [📞 **Tel: +90 533 651 6258**](https://wa.me/905336516258)
 
-**Adres:** Bigadiç, Balıkesir, Türkiye<br>
-- **Telefon:** [+90 533 651 6258](https://wa.me/905336516258)<br>
-- **Email:** [Bu mail adresimiz](mailto:bilal.harun00@gmail.com)den bize ulaşabilirsiniz.
-- **Adres:** Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye
-- **Web Sitesi:**[Bigadiç Medrese-i Nuriyesi](https://bilalharun.github.io/homework)
+- [💬 **Whatsapp**](https://wa.me/905336516258)
 
-## Sıkça Sorulan Sorular
-Bigadiç Medrese-i Nuriyesi hakkında sıkça sorulan sorular ve cevapları için lütfen [Sıkça Sorulan Sorular](https://bilalharun.github.io/homework/faq) sayfasını ziyaret edin.
+- [**📧 e-Posta**](mailto:bilal.harun00@gmail.com)
+
+📧 e-Posta: <a href="mailto:sozler@sozler.com.tr">sozler@sozler.com.tr</a>
+
+- [🌐 **Web Sitesi**](https://bilalharun.github.io)
+
+## 📍🗺 Adres
+
+[Google Haritalar<br/>Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye](https://maps.app.goo.gl/7eQmFXgeht11yWvGA)
+
+[Hizmet Vakfı](https://www.hizmetvakfi.com)

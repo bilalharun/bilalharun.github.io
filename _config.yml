@@ -31,6 +31,8 @@ theme: minima
 
 minima:
   skin: auto
+  nav_pages:
+    - arsiv.md
 
 plugins:
   - jekyll-feed
