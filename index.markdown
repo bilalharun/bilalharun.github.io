@@ -9,19 +9,17 @@ title: Bigadiç Medrese-i Nuriyesi
 
 - Cuma: 21:00
 
-## ☎️ İrtibat
-
-- [📞 **Tel: +90 533 651 6258**](tel:+905336516258)
-
-- [💬 **Whatsapp: +90 533 651 6258**](https://wa.me/905336516258)
-
-- [**📧 e-Posta: bilal.harun00@gmail.com**](mailto:bilal.harun00@gmail.com)
-
-- [🌐 **Web Sitesi**](https://bilalharun.github.io)
-
 ## 📍🗺 Adres
 
 [Google Haritalar<br/>Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye](https://maps.app.goo.gl/GyPrRb3EERm67PMa8?g_st=iw)
+
+## ☎️ İrtibat
+
+- [📞 **Tel:** +90 533 651 6258](tel:+905336516258)
+
+- [💬 **WhatsApp**](https://wa.me/905336516258)
+
+- [**📧 e-Posta:** bilal.harun00@gmail.com](mailto:bilal.harun00@gmail.com)
 
 ## Kaynaklar
 
