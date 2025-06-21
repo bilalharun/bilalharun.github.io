@@ -5,13 +5,31 @@ layout: home
 title: Bigadiç Medrese-i Nuriyesi
 ---
 
+## 📅 Ders Günleri 
+
+- Cuma: 21:00
+
+## ☎️ İrtibat
+
+- [📞 **Tel: +90 533 651 6258**](tel:+905336516258)
+
+- [💬 **Whatsapp: +90 533 651 6258**](https://wa.me/905336516258)
+
+- [**📧 e-Posta: bilal.harun00@gmail.com**](mailto:bilal.harun00@gmail.com)
+
+- [🌐 **Web Sitesi**](https://bilalharun.github.io)
+
+## 📍🗺 Adres
+
+[Google Haritalar<br/>Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye](https://maps.app.goo.gl/GyPrRb3EERm67PMa8?g_st=iw)
+
 ## Kaynaklar
 
 ### 📕 Kitap Temini
 
-- [Sözler Neşriyat](https://www.sozlernesriyat.com.tr)
+- [Sözler® Neşriyat](https://www.sozlernesriyat.com.tr)
 
-- [Envar Neşriyat](https://www.envarnesriyat.com)
+- [Envar® Neşriyat](https://www.envarnesriyat.com)
 
 ### 📱 Sözler® Neşriyat Mobil Uygulama
 
@@ -34,23 +52,5 @@ title: Bigadiç Medrese-i Nuriyesi
 - [Sözler® Neşriyat](http://istanbul.sozler.com.tr)
 
 - [Envar® Neşriyat](https://www.risalekulliyati.com)
-
-## 📅 Ders Günleri 
-
-- Cuma: 21:00
-
-## ☎️ İrtibat
-
-- [📞 **Tel: +90 533 651 6258**](tel:+905336516258)
-
-- [💬 **Whatsapp: +90 533 651 6258**](https://wa.me/905336516258)
-
-- [**📧 e-Posta: bilal.harun00@gmail.com**](mailto:bilal.harun00@gmail.com)
-
-- [🌐 **Web Sitesi**](https://bilalharun.github.io)
-
-## 📍🗺 Adres
-
-[Google Haritalar<br/>Fethibey Mahallesi, Özgür Sokak, No:6/1, Okur Apartmanı, Bigadiç, Balıkesir, Türkiye](https://maps.app.goo.gl/GyPrRb3EERm67PMa8?g_st=iw)
 
 [Hizmet Vakfı](https://www.hizmetvakfi.org/)
