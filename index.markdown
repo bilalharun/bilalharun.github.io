@@ -7,7 +7,7 @@ title: Bigadiç Medrese-i Nuriyesi
 
 ## 📅 Ders Günleri 
 
-- Cuma: 21:00
+- Cuma, 21:00
 
 ## 📍🗺 Adres
 
