@@ -2,10 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Bigadiç Medrese-i Nuriyesi
 ---
 
-## 📅 Ders Günleri 
+## 📅 Ders Günleri
 
 - Cuma 21:00
 
@@ -21,7 +20,7 @@ title: Bigadiç Medrese-i Nuriyesi
 
 - [**📧 e-Posta:** bilal.harun00@gmail.com](mailto:bilal.harun00@gmail.com)
 
-## Kaynaklar
+## Risale-i Nur Eserleri
 
 ### 📕 Kitap Temini
 
@@ -45,7 +44,7 @@ title: Bigadiç Medrese-i Nuriyesi
 
 - [ Apple App Store ( iOS )](https://apps.apple.com/tr/app/risale-i-nur-okuma-program%C4%B1/id6447762001)
 
-### 📖 🧑‍💻 Internet Üzerinde Külliyat
+### 📖🧑‍💻 Internet
 
 - [Sözler® Neşriyat](http://istanbul.sozler.com.tr)
 
