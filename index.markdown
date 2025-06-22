@@ -50,4 +50,6 @@ layout: home
 
 - [Envar® Neşriyat](https://www.risalekulliyati.com)
 
+- [Diyanet İşleri Başkanlığı](https://risaleinur.hizmetvakfi.org)
+
 [Hizmet Vakfı](https://www.hizmetvakfi.org/)
